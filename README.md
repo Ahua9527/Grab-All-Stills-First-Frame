@@ -4,7 +4,7 @@
 
 
 1.配置环境
-安装brew： /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+安装brew：```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
 安装FFmpeg： brew install ffmpeg
 
