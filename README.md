@@ -20,6 +20,7 @@
 
 
 截取JPG输入
+
 ```Wget https://raw.githubusercontent.com/DITStack/Grab-All-Stills-First-Frame/main/video2jpg.sh
 chmod 755 video2jpg.sh
 ./video2jpg.sh```
