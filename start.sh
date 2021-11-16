@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 filelist=$(find *.mov｜*.mmxf｜*.mp4|.flv|*.mkv|*.h264|*.hevc|*.m4v|*.ts|*.avi|*.rmvb|*.mpg)
 OLDIFS="$IFS"
