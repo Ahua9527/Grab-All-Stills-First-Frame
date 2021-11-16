@@ -1,4 +1,4 @@
-filelist=$(find *.mov｜*.mxf｜*.mp4|.flv|*.mkv|*.h264|*.hevc|*.m4v|*.ts|*.avi|*.rmvb|*.mpg)
+filelist=$(find *.mov｜*.mxf｜*.mp4|*.flv|*.mkv|*.h264|*.hevc|*.m4v|*.ts|*.avi|*.rmvb|*.mpg)
 OLDIFS="$IFS"
 IFS=$"\n"
 for filename in *.*
